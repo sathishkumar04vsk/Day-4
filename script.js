@@ -40,4 +40,11 @@ console.log(parseInt(num));
 console.log(Number(num));
 
 //7.Write 6 statement which provide truthy & falsey values
-var 
+var a=11;
+var b=12;
+if (a===b){
+    console.log(true);
+}
+else if(a!==b){
+    console.log(true);
+}
